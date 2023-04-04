@@ -1,7 +1,7 @@
 .navbar{
     position: sticky;
     top: 0;
-    background-color: #09143c;
+    background-color:#09143c;
     box-shadow: 0 1px 4px rgba(255, 255, 255, 0.5);
 }
 .navbar-container{

@@ -46,11 +46,12 @@ const MovieRef = ({ addWindow, setAddWindow, addMovie }) => {
           <h3>URL</h3>
           <input type="text" />
         </div>
-      </div>
-      <div className="movieRef-right">
+        <div className="movieRef-right">
         <button className='movieRef-btn-add' onClick={ addNewMovie }>Add</button>
         <button className='btn-close' onClick={displayAddWindow}>X</button>
       </div>
+      </div>
+     
     </div>
   )
 }
